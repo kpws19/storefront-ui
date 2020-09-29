@@ -51,6 +51,7 @@
     }
   }
   &__close {
+    --button-background: var(--c-black);
     --button-display: none;
     position: absolute;
     top: var(--spacer-xs);
